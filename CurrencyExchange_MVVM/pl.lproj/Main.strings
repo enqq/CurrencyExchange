@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7J9-5A-Ypg"; */
+"7J9-5A-Ypg.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "PMp-AQ-0vl"; */
+"PMp-AQ-0vl.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PMp-AQ-0vl"; */
+"PMp-AQ-0vl.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "Uoa-Ei-DB9"; */
+"Uoa-Ei-DB9.title" = "Details";
+
+/* Class = "UILabel"; text = "="; ObjectID = "cR7-wC-rD4"; */
+"cR7-wC-rD4.text" = "=";
+
+/* Class = "UIViewController"; title = "DetailsRate"; ObjectID = "d2u-Ac-yKn"; */
+"d2u-Ac-yKn.title" = "DetailsRate";
+
+/* Class = "UISegmentedControl"; mRh-y7-BXn.segmentTitles[0] = "First"; ObjectID = "mRh-y7-BXn"; */
+"mRh-y7-BXn.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; mRh-y7-BXn.segmentTitles[1] = "Second"; ObjectID = "mRh-y7-BXn"; */
+"mRh-y7-BXn.segmentTitles[1]" = "Second";
